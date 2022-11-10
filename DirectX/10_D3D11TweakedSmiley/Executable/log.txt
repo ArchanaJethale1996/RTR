@@ -1,0 +1,25 @@
+File Created and opened Successfully
+D3D11CreateDeviceAndSwapChain() succeeded.
+The choosen Driver Is of = Hardware Type.
+ The Supported Highest Feature Type is 11.0
+ D3DCompile() succeded For VertexShader.
+gpD3D11Device->CreateVertexShader() Succeded.
+D3DCompile() succeded For VertexShader.
+gpD3D11Device->CreatePixelShader() Succeded For VertexShader.
+ gpD3D11Device->CreateBuffer() succeded For VertexShader.
+ gpD3D11Device->CreateBuffer() succeded For VertexShader.
+ gpD3D11Device->CreateInputLayout() succeded.
+ gpD3D11Device->CreateBuffer() Succeded.
+ gpD3D11Device->CreateRasterizerState() Succeded.
+CreateWICTextureFromFile() Succeded.
+ LoadD3DTexture() Succeded.
+gpD3D11Device->CreateSamplerState() Succeded.
+CreateWICTextureFromMemory() Succeded.
+CreateSamplerState() Succeded.
+ LoadD3DTexture() Succeded.
+gpD3D11Device->CreateSamplerState() Succeded.
+gpD3D11Device->CreateRenderTargetView() Succeded.
+gpD3D11Device->CreateDepthStencilView() Succeded.
+resize() Succeded.
+initialize() Successfull...
+File closed successfully
